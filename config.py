@@ -27,7 +27,7 @@ Neeche buttons use karein 👇
 """
 
 # Free Media Limit (non-premium users)
-FREE_MEDIA_LIMIT = 10
+FREE_MEDIA_LIMIT = 3
 
 # Subscription Plans — 7 / 15 / 30 days
 PLANS = {
